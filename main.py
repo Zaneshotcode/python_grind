@@ -1,3 +1,0 @@
-import turtle 
-
-turtle.Tuetle()····
